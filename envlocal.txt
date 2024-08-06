@@ -1,0 +1,6 @@
+.env.local --> file name
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=/*we will get it from clerk dashboard after login*/
+CLERK_SECRET_KEY=/*we will get it from clerk dashboard after login*/
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
